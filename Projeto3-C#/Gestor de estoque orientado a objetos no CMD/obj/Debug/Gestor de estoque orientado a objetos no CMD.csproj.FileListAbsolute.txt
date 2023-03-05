@@ -1,0 +1,8 @@
+E:\Gestor de estoque orientado a objetos no CMD\Gestor de estoque orientado a objetos no CMD\bin\Debug\Gestor de estoque orientado a objetos no CMD.exe.config
+E:\Gestor de estoque orientado a objetos no CMD\Gestor de estoque orientado a objetos no CMD\bin\Debug\Gestor de estoque orientado a objetos no CMD.exe
+E:\Gestor de estoque orientado a objetos no CMD\Gestor de estoque orientado a objetos no CMD\bin\Debug\Gestor de estoque orientado a objetos no CMD.pdb
+E:\Gestor de estoque orientado a objetos no CMD\Gestor de estoque orientado a objetos no CMD\obj\Debug\Gestor de estoque orientado a objetos no CMD.csproj.AssemblyReference.cache
+E:\Gestor de estoque orientado a objetos no CMD\Gestor de estoque orientado a objetos no CMD\obj\Debug\Gestor de estoque orientado a objetos no CMD.csproj.SuggestedBindingRedirects.cache
+E:\Gestor de estoque orientado a objetos no CMD\Gestor de estoque orientado a objetos no CMD\obj\Debug\Gestor de estoque orientado a objetos no CMD.csproj.CoreCompileInputs.cache
+E:\Gestor de estoque orientado a objetos no CMD\Gestor de estoque orientado a objetos no CMD\obj\Debug\Gestor de estoque orientado a objetos no CMD.exe
+E:\Gestor de estoque orientado a objetos no CMD\Gestor de estoque orientado a objetos no CMD\obj\Debug\Gestor de estoque orientado a objetos no CMD.pdb

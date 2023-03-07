@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Gestor_de_estoque_orientado_a_objetos_no_CMD
 {
-    class ProdutoFisico : Produto
+    class ProdutoFisico : Produto, IEstoque
     {
         public float frete;
         private int estoque;
@@ -16,6 +16,21 @@ namespace Gestor_de_estoque_orientado_a_objetos_no_CMD
             this.nome = nome;
             this.preco = preco;
             this.frete = frete;
+        }
+
+        public void AdicionarEntrada()
+        {
+            
+        }
+
+        public void AdicionarSAIDA()
+        {
+            
+        }
+
+        public void Exibir()
+        {
+            
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Gestor_de_estoque_orientado_a_objetos_no_CMD
 {
-    class Ebook : Produto
+    class Ebook : Produto, IEstoque
     {
         public string autor;
         private int vendas;
@@ -16,6 +16,21 @@ namespace Gestor_de_estoque_orientado_a_objetos_no_CMD
             this.nome = nome;
             this.preco = preco;
             this.autor = autor;
+        }
+
+        public void AdicionarEntrada()
+        {
+            
+        }
+
+        public void AdicionarSAIDA()
+        {
+            
+        }
+
+        public void Exibir()
+        {
+            
         }
     }
 }

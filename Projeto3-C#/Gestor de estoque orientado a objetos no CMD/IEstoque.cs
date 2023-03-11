@@ -10,6 +10,6 @@ namespace Gestor_de_estoque_orientado_a_objetos_no_CMD
     {
         void Exibir();
         void AdicionarEntrada();
-        void AdicionarSAIDA();
+        void AdicionarSaida();
     }
 }

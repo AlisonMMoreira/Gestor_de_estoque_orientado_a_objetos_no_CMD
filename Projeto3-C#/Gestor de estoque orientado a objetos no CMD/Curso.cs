@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Gestor_de_estoque_orientado_a_objetos_no_CMD
 {
+    [System.Serializable]
     class Curso : Produto, IEstoque
     {
         public string autor;
@@ -30,7 +31,11 @@ namespace Gestor_de_estoque_orientado_a_objetos_no_CMD
 
         public void Exibir()
         {
-            
+            Console.WriteLine($"Nome: {nome}");
+            Console.WriteLine($"Autor: {autor}");
+            Console.WriteLine($"Preço: {preco}");
+            Console.WriteLine($"Vagas restantes: {vagas}");
+            Console.WriteLine("===============================");
         }
     }
 }

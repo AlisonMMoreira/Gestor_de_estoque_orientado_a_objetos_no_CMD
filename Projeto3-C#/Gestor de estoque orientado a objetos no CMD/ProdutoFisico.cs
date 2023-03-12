@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Gestor_de_estoque_orientado_a_objetos_no_CMD
 {
+    [System.Serializable]
     class ProdutoFisico : Produto, IEstoque
     {
         public float frete;
@@ -30,7 +31,11 @@ namespace Gestor_de_estoque_orientado_a_objetos_no_CMD
 
         public void Exibir()
         {
-            
+            Console.WriteLine($"Nome: {nome}");
+            Console.WriteLine($"Frete: {frete}");
+            Console.WriteLine($"Preço: {preco}");
+            Console.WriteLine($"Estoque: {estoque}");
+            Console.WriteLine("===============================");
         }
     }
 }
